@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="MDLDebIZccGk3XKtKVf8">
-    <mxGraphModel dx="1201" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="834" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="8CpdvQ49p0of5vSI7GzP-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;库管员" vertex="1">
           <mxGeometry height="30" width="60" x="10" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="M-i-dNVvVAihXmeSCUP6-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="390" width="500" x="80" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
